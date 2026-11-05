@@ -6,7 +6,7 @@
 
 ## 🔗 Live Site & Repositories
 
-- **Live Server URL:** [https://studiospace-server-b14a8.onrender.com](https://studiospace-server-b14a8.onrender.com) *(Replace with your actual Render/Vercel URL)*
+- **Live Server URL:** [Live Server](https://b14-a8-catharry.vercel.app/login)
 - **Server Repository:** [https://github.com/khalidhasanbadhon502/b14-a8-cat_harry_server](https://github.com/khalidhasanbadhon502/b14-a8-cat_harry_server)
 - **Client Repository:** [https://github.com/khalidhasanbadhon502/b14-a8-cat_harry](https://github.com/khalidhasanbadhon502/b14-a8-cat_harry)
 
